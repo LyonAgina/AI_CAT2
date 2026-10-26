@@ -2,7 +2,7 @@
 
 **Course:** ICS 3202 Artificial Intelligence, Project Deliverable 2 (CAT 2)
 **Project:** Skill Exchange and Service Evaluation App
-**Group:** Alicia Maryanne, Charlotte Mujuri, Lyon Agina
+
 
 This README walks through `Ridge_Base.ipynb` cell by cell. For each code cell it shows what the code does, line by line, in plain words, then the real output from our run.
 
